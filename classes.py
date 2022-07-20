@@ -5,4 +5,4 @@ class Kitap:
 		self.publisher = publisher
 		self.price = price
 	
-print("Haloo Wuden!")
+print("Hello World!")
